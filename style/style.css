@@ -304,4 +304,5 @@ table tr td
 }
 .button-container{
   display: flex;
+  text-align: center;
 }
