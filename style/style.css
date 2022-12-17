@@ -148,7 +148,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { width: 837px;
   overflow: hidden;
   margin: 0 auto 0 auto;
-  padding: 20px 24px 20px 24px;
+  padding: 20px 24px 20px 37px;
   background: #FFF;} 
 
 .sidebar
@@ -175,7 +175,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 #content
 { text-align: left;
-  width: 595px;
+  width: 820px;
   padding: 0;}
 
 #content ul
