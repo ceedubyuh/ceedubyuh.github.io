@@ -302,3 +302,6 @@ table tr td
 .button-1:disabled {
   box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
 }
+.button-container{
+  display: flex;
+}
