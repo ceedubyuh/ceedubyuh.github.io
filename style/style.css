@@ -6,7 +6,8 @@ html
   padding: 0;}
 
 body
-{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+{ 
+  font-family: 'League Spartan';
   background: #F0EFE2 url(background.png) repeat;
   color: #777;}
 
