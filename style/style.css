@@ -26,17 +26,16 @@ h1, h2, h3, h4, h5, h6
   padding: 15px 0 5px 0;}
 
 h2
-{ font: normal 175% 'century gothic', arial, sans-serif;
+{ 
   color: #1293EE;}
 
 h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
-  font: normal 120% arial, sans-serif;
   color: #1293EE;}
 
 h5, h6
-{ font: italic 95% arial, sans-serif;
+{ 
   padding: 0 0 15px 0;
   color: #000;}
 
@@ -119,7 +118,6 @@ ol li
 
 #menubar
 { 
-  font-family: 'League Spartan';
   width: 900px;
   height: 72px;
   padding: 0;
@@ -135,8 +133,8 @@ ul#menu li
 
 ul#menu li a
 { letter-spacing: 0.1em;
-  font: normal 100% arial, sans-serif;
   display: block; 
+  font-family: 'League Spartan';
   float: left; 
   height: 37px;
   padding: 29px 26px 6px 26px;
@@ -201,7 +199,6 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { 
   font-family: 'League Spartan';
   width: 900px;
-  font: normal 100% 'lucida sans unicode', arial, sans-serif;
   height: 33px;
   padding: 24px 0 5px 0;
   text-align: center; 
