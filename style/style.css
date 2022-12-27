@@ -177,7 +177,9 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   text-decoration: none;} 
 
 #content
-{ text-align: left;
+{ 
+  font-family: 'League Spartan';
+  text-align: left;
   width: 820px;
   padding: 0;}
 
@@ -248,7 +250,7 @@ table tr td
   color: #3c4043;
   cursor: pointer;
   fill: currentcolor;
-  font-family: "Google Sans",Roboto,Arial,sans-serif;
+  font-family: 'League Spartan';
   font-size: 14px;
   font-weight: 500;
   height: 48px;
