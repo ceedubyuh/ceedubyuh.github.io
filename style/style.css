@@ -233,7 +233,6 @@ table tr td
   color: #47433F;
   border-top: 1px solid #FFF;}
 
-/* CSS */
 .button-1 {
   align-items: center;
   appearance: none;
@@ -244,7 +243,6 @@ table tr td
   box-sizing: border-box;
   color: #3c4043;
   cursor: pointer;
-  display: inline-block;
   fill: currentcolor;
   font-family: "Google Sans",Roboto,Arial,sans-serif;
   font-size: 14px;
@@ -305,4 +303,9 @@ table tr td
 .button-container{
   display: flex;
   text-align: center;
+}
+
+li{
+  font-weight: bold;
+  font-size: medium;
 }
