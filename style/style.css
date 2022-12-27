@@ -19,7 +19,8 @@ img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 175% 'century gothic', arial, sans-serif;
+{ 
+  font-family: 'League Spartan';
   color: #43423F;
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;}
@@ -117,7 +118,9 @@ ol li
   color: #DDD;}
 
 #menubar
-{ width: 900px;
+{ 
+  font-family: 'League Spartan';
+  width: 900px;
   height: 72px;
   padding: 0;
   background: #1293EE;} 
@@ -195,7 +198,9 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 }
 
 #footer
-{ width: 900px;
+{ 
+  font-family: 'League Spartan';
+  width: 900px;
   font: normal 100% 'lucida sans unicode', arial, sans-serif;
   height: 33px;
   padding: 24px 0 5px 0;
