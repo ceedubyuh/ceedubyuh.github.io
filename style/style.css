@@ -92,6 +92,7 @@ ol li
 #header
 { background: #1D1D1D;
   color:white;
+  text-align: center;
   height: 240px;}
 
 #logo h1, #logo h2
