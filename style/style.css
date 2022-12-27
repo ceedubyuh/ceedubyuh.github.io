@@ -186,7 +186,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   background: url(bullet.png) no-repeat;
   margin: 0 0 6px 0; 
   padding: 0 0 4px 25px;
-  line-height: 1.5em;}
+  font-size: 26px;
+}
 
 #footer
 { width: 900px;
@@ -305,7 +306,3 @@ table tr td
   text-align: center;
 }
 
-li{
-  font-weight: bold;
-  font-size: medium;
-}
