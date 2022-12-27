@@ -90,7 +90,7 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #1D1D1D url(header.png) repeat;
+{ background: #1D1D1D;
   height: 240px;}
 
 #logo h1, #logo h2
