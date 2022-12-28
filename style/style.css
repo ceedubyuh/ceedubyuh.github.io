@@ -307,7 +307,7 @@ table tr td
 .button-container{
   text-align: center;
 }
-.headshot{
+#headshot{
   padding: 0 20px 0 0;
   float: left;
 }
