@@ -94,7 +94,6 @@ ol li
   color:white;
   text-align: center;
   height: 240px;
-  float: left;
 }
 
 #logo h1, #logo h2
@@ -308,4 +307,7 @@ table tr td
 .button-container{
   text-align: center;
 }
-
+.headshot{
+  padding: 0 20px 0 0;
+  float: left;
+}
