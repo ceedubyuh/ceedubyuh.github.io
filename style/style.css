@@ -292,6 +292,6 @@ table tr td
 }
 input[type=text]{
   padding: 8px 20px;
-  margin: 10px 0px 10px 8px;
+  margin: 10px 0px 10px 0px;
   box-sizing: border-box;
 }
